@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Canh</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A passionate Software Engineer from Vietnam</h3>
 
 - 🔭 I’m currently working on [hyper_authenticator](https://github.com/xuancanhit99/hyper_authenticator)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [rumai](https://github.com/codarkat/rumai)
 
-- 💬 Ask me about **Mobile development, AI, Open Source**
+- 💬 Ask me about **Mobile development, Backend development, DevOps, AI, Workflow Automation, Open Source**
 
 - 📫 How to reach me **xuancanhit99@gmail.com | [LinkedIn](https://linkedin.com/in/xuancanhit)**
 
@@ -17,6 +17,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ## 📌 Projects
 - [cross_platform_mailing_app](https://github.com/xuancanhit99/cross_platform_mailing_app): Cross-platform mailing solution using Dart.

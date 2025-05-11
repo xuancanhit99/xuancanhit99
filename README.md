@@ -27,6 +27,7 @@
 
 ## 📈 GitHub Stats
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuancanhit99&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuancanhit99&layout=compact&theme=radical)
 
 ---

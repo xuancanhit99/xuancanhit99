@@ -30,8 +30,6 @@
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuancanhit99&theme=github_dark)
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuancanhit99&theme=github_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuancanhit99&rank_icon=percentile&theme=github_dark)
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xuancanhit99&label=Profile%20views&color=0e75b6&style=flat" alt="xuancanhit99" />

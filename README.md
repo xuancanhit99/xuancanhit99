@@ -20,12 +20,13 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ## 📌 Projects
+- [ai_model_gateway](https://github.com/xuancanhit99/ai_model_gateway): AI model API gateway in Python.
 - [cross_platform_mailing_app](https://github.com/xuancanhit99/cross_platform_mailing_app): Cross-platform mailing solution using Dart.
 - [hyper_authenticator](https://github.com/xuancanhit99/hyper_authenticator): Multi-factor authentication app.
-- [ai_model_gateway](https://github.com/xuancanhit99/ai_model_gateway): AI model API gateway in Python.
 - [mirea-student-adaptation-flutter-app](https://github.com/xuancanhit99/mirea-student-adaptation-flutter-app): Student adaptation app for MIREA.
 
 ## 📈 GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuancanhit99&layout=compact&theme=radical)
 
 ---

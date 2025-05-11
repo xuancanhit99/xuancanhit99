@@ -1,36 +1,44 @@
 <h1 align="center">Hi 👋, I'm Canh</h1>
-<h3 align="center">A passionate Software Engineer from Vietnam</h3>
 
-- 🔭 I’m currently working on [hyper_authenticator](https://github.com/xuancanhit99/hyper_authenticator)
+🚀 A tech enthusiast and software engineer with deep expertise in information system architecture, passionate about creating breakthrough technology solutions. I specialize in driving digital transformation by developing and deploying solutions that leverage Automation, IoT, and Artificial Intelligence (AI). I'm always seeking new challenges and collaborative opportunities to turn innovative ideas into impactful realities.
 
-- 🌱 I’m currently learning **Flutter, Python**
+---
 
-- 👯 I’m looking to collaborate on [rumai](https://github.com/codarkat/rumai)
+📫 **Reach out to Me:**
 
-- 💬 Ask me about **Mobile development, Backend development, DevOps, AI, Workflow Automation, Open Source**
-
-- 📫 How to reach me **xuancanhit99@gmail.com | [LinkedIn](https://linkedin.com/in/xuancanhit)**
-
-- ⚡ Fun fact **Do what you love. Love what you do.**
+<p align="center">
+  <a href="https://linkedin.com/in/xuancanhit" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR_X_USERNAME" target="_blank"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://youtube.com/YOUR_YOUTUBE_CHANNEL" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://YOUR_WEBSITE_URL" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-FF4500.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  </p>
 
 ## 🛠️ Skills
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## 📌 Projects
-- [ai_model_gateway](https://github.com/xuancanhit99/ai_model_gateway): AI model API gateway in Python.
-- [cross_platform_mailing_app](https://github.com/xuancanhit99/cross_platform_mailing_app): Cross-platform mailing solution using Dart.
-- [hyper_authenticator](https://github.com/xuancanhit99/hyper_authenticator): Multi-factor authentication app.
-- [mirea-student-adaptation-flutter-app](https://github.com/xuancanhit99/mirea-student-adaptation-flutter-app): Student adaptation app for MIREA.
+<p align="left">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  </p>
+
+## 📌 Pinned Projects
+- **[ai_model_gateway](https://github.com/xuancanhit99/ai_model_gateway)**: AI model API gateway developed in Python.
+- **[cross_platform_mailing_app](https://github.com/xuancanhit99/cross_platform_mailing_app)**: Cross-platform mailing solution built with Dart & Flutter.
+- **[hyper_authenticator](https://github.com/xuancanhit99/hyper_authenticator)**: Multi-factor authentication application.
+- **[mirea-student-adaptation-flutter-app](https://github.com/xuancanhit99/mirea-student-adaptation-flutter-app)**: Student adaptation mobile application for MIREA (using Flutter).
 
 ## 📈 GitHub Stats
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xuancanhit99&theme=github_dark)
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuancanhit99&theme=github_dark)
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuancanhit99&theme=github_dark)
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xuancanhit99&theme=github_dark" alt="Most Commit Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuancanhit99&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuancanhit99&theme=github_dark" alt="Profile Details"/>
+</p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xuancanhit99&label=Profile%20views&color=0e75b6&style=flat" alt="xuancanhit99" />
+  <img src="https://komarev.com/ghpvc/?username=xuancanhit99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for xuancanhit99" />
 </p>

@@ -26,9 +26,9 @@
 - [mirea-student-adaptation-flutter-app](https://github.com/xuancanhit99/mirea-student-adaptation-flutter-app): Student adaptation app for MIREA.
 
 ## 📈 GitHub Stats
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuancanhit99&theme=tokyonight)
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuancanhit99&theme=tokyonight)
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xuancanhit99&theme=tokyonight)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuancanhit99&theme=github_dark)
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuancanhit99&theme=github_dark)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xuancanhit99&theme=github_dark)
 
 
 ---

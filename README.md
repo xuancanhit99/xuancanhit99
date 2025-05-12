@@ -8,11 +8,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/xuancanhit" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_X_USERNAME" target="_blank"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://youtube.com/yourchannel" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://YOUR_WEBSITE_URL" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-FF4500.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://twitter.com/xuancanhit99" target="_blank"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://youtube.com/@shinz99" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://t.me/hennryvu" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://hyperz.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-FF4500.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   </p>
 
 ## 💻 My Tech Stack

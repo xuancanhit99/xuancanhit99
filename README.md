@@ -25,10 +25,10 @@
   </p>
 
 ## 📌 Pinned Projects
-- **[ai_model_gateway](https://github.com/xuancanhit99/ai_model_gateway)**: AI model API gateway developed in Python.
-- **[cross_platform_mailing_app](https://github.com/xuancanhit99/cross_platform_mailing_app)**: Cross-platform mailing solution built with Dart & Flutter.
-- **[hyper_authenticator](https://github.com/xuancanhit99/hyper_authenticator)**: Multi-factor authentication application.
-- **[mirea-student-adaptation-flutter-app](https://github.com/xuancanhit99/mirea-student-adaptation-flutter-app)**: Student adaptation mobile application for MIREA (using Flutter).
+- **[ai_model_gateway](https://github.com/xuancanhit99/ai_model_gateway)**: A unified gateway connecting multiple AI models (Gemini, Grok, GigaChat, Sonar) with OpenAI-compatible interface, built using FastAPI (Python) and React (TypeScript), featuring user management via Supabase and automatic API key failover mechanism.
+- **[cross_platform_mailing_app](https://github.com/xuancanhit99/cross_platform_mailing_app)**: A versatile Flutter-based cross-platform mailing application that enables users to send individual emails, mass emails via CSV imports, and access web email services across multiple devices.
+- **[hyper_authenticator](https://github.com/xuancanhit99/hyper_authenticator)**: A cross-platform TOTP authenticator app built with Flutter, providing secure two-factor authentication with biometric protection and end-to-end encrypted cloud synchronization across Android, iOS, Web, Windows, and macOS.
+- **[mirea-student-adaptation-flutter-app](https://github.com/xuancanhit99/mirea-student-adaptation-flutter-app)**: A mobile information system designed to facilitate the adaptation of foreign university students through a comprehensive Flutter application that provides essential resources, campus navigation, and support services.
 
 ## 📈 GitHub Stats
 

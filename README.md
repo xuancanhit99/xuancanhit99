@@ -16,7 +16,6 @@
   </p>
 
 ## 💻 My Tech Stack
-*Please customize this section further with your specific skills and remove any irrelevant examples.*
 
 #### Languages
 <p>

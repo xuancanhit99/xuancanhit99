@@ -77,15 +77,22 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
-## 🏛️ Architectural Patterns
-I leverage various architectural patterns depending on the project's needs:
+[//]: # (## 🏛️ Architectural Patterns)
 
-- **Client-Server:** Designing interactions between clients and centralized servers.
-- **Monolithic:** Building single-unit applications for simpler systems or specific use cases.
-- **Microservices:** Developing complex systems as a suite of small, independent, scalable services.
-- **Layered Architecture:** Structuring applications into logical layers (e.g., Presentation, Business Logic, Data Access) for separation of concerns.
-- **Model-View-Controller (MVC):** Organizing code for user interfaces, particularly in web/backend contexts.
-- **Clean Architecture:** Applying principles for separation of concerns, testability, and maintainability, notably within **Flutter** applications.
+[//]: # (I leverage various architectural patterns depending on the project's needs:)
+
+[//]: # ()
+[//]: # (- **Client-Server:** Designing interactions between clients and centralized servers.)
+
+[//]: # (- **Monolithic:** Building single-unit applications for simpler systems or specific use cases.)
+
+[//]: # (- **Microservices:** Developing complex systems as a suite of small, independent, scalable services.)
+
+[//]: # (- **Layered Architecture:** Structuring applications into logical layers &#40;e.g., Presentation, Business Logic, Data Access&#41; for separation of concerns.)
+
+[//]: # (- **Model-View-Controller &#40;MVC&#41;:** Organizing code for user interfaces, particularly in web/backend contexts.)
+
+[//]: # (- **Clean Architecture:** Applying principles for separation of concerns, testability, and maintainability, notably within **Flutter** applications.)
 
 ## 📌 Pinned Projects
 

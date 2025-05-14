@@ -47,13 +47,19 @@
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
 </p>
 
-#### AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E44AD?style=flat-square&logo=google-gemini&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/xAI-000000?style=flat-square&logo=xai&logoColor=white" alt="xAI (Grok)"/>
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
+[//]: # (#### AI / Machine Learning)
+
+[//]: # (<p>)
+
+[//]: # (  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>)
+
+[//]: # (  <img src="https://img.shields.io/badge/Google%20Gemini-8E44AD?style=flat-square&logo=google-gemini&logoColor=white" alt="Google Gemini"/>)
+
+[//]: # (  <img src="https://img.shields.io/badge/xAI-000000?style=flat-square&logo=xai&logoColor=white" alt="xAI &#40;Grok&#41;"/>)
+
+[//]: # (  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>)
+
+[//]: # (</p>)
 
 #### Databases
 <p>

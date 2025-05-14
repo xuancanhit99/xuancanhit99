@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Canh</h1>
+<h1 align="center">Hi 👋, I'm Xuan Canh</h1>
 
 🚀 A tech enthusiast and software engineer with deep expertise in information system architecture, passionate about creating breakthrough technology solutions. I specialize in driving digital transformation by developing and deploying solutions that leverage Automation, IoT, and Artificial Intelligence (AI). I'm always seeking new challenges and collaborative opportunities to turn innovative ideas into impactful realities.
 
